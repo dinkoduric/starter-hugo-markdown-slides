@@ -1,6 +1,6 @@
 ---
 title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: An introduction to using Wowchemy's Slides feature-a.
 authors: []
 tags: ['Tutorials']
 categories: []
