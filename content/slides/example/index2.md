@@ -2,9 +2,9 @@
 title: Example Slides2
 summary: An introduction to using Wowchemy's Slides feature.2
 authors: []
-tags: ['Tutorials2']
+tags: ['Tutorials']
 categories: []
-date: '2019-02-05'
+date: '2019-02-06'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
