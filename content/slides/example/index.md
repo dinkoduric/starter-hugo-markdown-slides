@@ -30,7 +30,7 @@ slides:
 
 ## aaaaa
 
-  <div style="width: 100%px; height:140; overflow: hidden;"><a class="embedly-card" data-card-type="article" data-card-controls="0" href="https://gol.dnevnik.hr/clanak/rukomet2020/uzivo-docek-srebrnih-rukometasa-na-trgu-prijenos-od-12-00-na-gol-hr-u---591723.html"></a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div>
+  <div style="width: 100%px; height:140; overflow: hidden;"><a class="embedly-card" data-card-type="article" data-card-controls="0" href="https://gol.dnevnik.hr/clanak/rukomet2020/uzivo-docek-srebrnih-rukometasa-na-trgu-prijenos-od-12-00-na-gol-hr-u---591723.html"></a><script async src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div>
 
 
 ---
